@@ -4,3 +4,7 @@
 # COMMAND ----------
 
 dbutils.fs.help()
+
+# COMMAND ----------
+
+dbutils.secrets.help()

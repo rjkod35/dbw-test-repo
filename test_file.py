@@ -3,6 +3,7 @@
 
 # COMMAND ----------
 
+# MAGIC %sh ps
 dbutils.fs.help()
 
 # COMMAND ----------
